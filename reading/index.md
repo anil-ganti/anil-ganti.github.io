@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Recent reading list
+title: Recent reads
 excerpt: "An archive of articles sorted by date."
 search_omit: true
+image:
+  feature: reading_splash.jpg
 ---
 
 <ul class="post-list">
