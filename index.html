@@ -1,12 +1,66 @@
 ---
 layout: page
-title: Latest Posts
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+title: About Me
+excerpt: "Engineer, environmentalist, book lover"
 search_omit: true
+image:
+  thumb: about_headshot.jpg
+  feature: about_splash.jpg
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
+<p>I am a PhD student at Duke University in the Electrical and Computer Engineering Department. I work in the <a href="http://people.ee.duke.edu/~jk/">Sensor Array and Multipath Signal Processing lab</a> under the mentorship of <a href="http://ece.duke.edu/faculty/jeffrey-krolik">Dr. Jeffrey Krolik</a>. 
+
+<p>Previously I worked in various capacities in California's energy sector and the clean technology startup space. In this time I recognized the potential value in intelligent environmental management powered by ubiquitous and low-cost monitoring. I am now at Duke's PhD program to develop sensing hardware and algorithms for low-cost and resource-constrained platforms</p>
+
+<p>Currently my research focuses on acoustic imaging, sensor development, and array processing on heterogeneous computing architectures.</p>
+
+<h1 id="education">Education</h1>
+
+<ul>
+  <li>Master of Science in Electrical Engineering - 2015
+    <ul>
+      <li>University of Washington - Seattle, Washington</li>
+    </ul>
+  </li>
+  <li>Bachelor of Arts in Physics - 2011
+    <ul>
+      <li>Colorado College - Colorado Springs, Colorado</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="education">Publications</h1>
+
+<ul>
+  <li>Intelligent stormwater infrastructure using a RESTful cyber-physical systems architecture
+    <ul>
+      <li>2015 IEEE International Smart Cities Conference</li>
+      <li>Guadalajara, Mexico</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="Work experience">Work Experience</h1>
+
+<ul>
+  <li>Technology consultant - 2 years
+    <ul>
+      <li>Seattle, Washington</li>
+    </ul>
+  </li>
+  <li>Software engineer - 1 year
+    <ul>
+      <li>1Energy Systems (now Doosan Gridtech) - Seattle, Washington</li>
+    </ul>
+  </li>
+  <li>Energy and data analyst - 1 year
+    <ul>
+      <li>Sacramento Municipal Utilities District - Sacramento, California</li>
+    </ul>
+  </li>
+  <li>Energy consultant - 1 year
+    <ul>
+      <li>Heschong Mahone Group (now TRC) - Sacramento, California</li>
+    </ul>
+  </li>
 </ul>

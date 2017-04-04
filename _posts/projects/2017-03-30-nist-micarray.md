@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
-categories: articles
+title: "NIST Microphone Array Capture"
+author: "Duke University SAM lab"
+excerpt: "Using a Raspberry Pi to capture audio data from a 64-element microphone array"
+categories: projects
 tags: [sample-post, code, highlighting]
 image:
   feature: so-simple-sample-image-5.jpg
@@ -10,7 +11,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
-modified: 2016-06-01T14:11:53-04:00
+modified: 2017-03-30T14:11:53-04:00
 ---
 
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
