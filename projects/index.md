@@ -7,7 +7,7 @@ image:
   feature: projects_splash.jpg
 ---
 
-Here are some things I am working on. Feel free to contact me 
+Here are some things I am working on at Duke. Feel free to contact me regarding any of these for more details.
 
 * Table of Contents
 {:toc}
