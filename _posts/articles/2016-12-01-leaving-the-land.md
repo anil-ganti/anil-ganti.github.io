@@ -2,7 +2,7 @@
 layout: post
 title: "Leaving the Land"
 author: "Douglas Unger"
-excerpt: "\"Good quote from book\""
+notes: "\"I found this fiction novel about agronomics and the struggles of a North Dakota farming community in a backcountry hut in Fjordlands, New Zealand. Random. Nonetheless, this was a great read.\""
 categories: read
 tags: [sample-post, readability, test]
 comments: true
