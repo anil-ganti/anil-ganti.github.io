@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading List
-excerpt: "An archive of articles sorted by date."
+excerpt: "What I've been reading lately."
 search_omit: true
 image:
   feature: reading_splash.jpg
