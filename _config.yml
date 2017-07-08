@@ -44,7 +44,7 @@ owner:
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #anil-ganti
+  github: anil-ganti
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -54,8 +54,8 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
-    verify:
+    analytics: UA-102156869-1
+    verify: DtL7cBBPpbmfYz7Pq0J0Eg5aPVEzVXNmrBXF3hTZkI8
     ad-client:
     ad-slot:
   bing-verify:
