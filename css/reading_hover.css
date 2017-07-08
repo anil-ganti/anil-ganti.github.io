@@ -5,6 +5,7 @@
   height: auto;
   overflow:hidden;
   position:relative;
+  margin-bottom:5px;
 }
 
 .overlay {
@@ -35,5 +36,5 @@
 }
 
 .container:hover .overlay {
-  opacity:1;
+  opacity:.9;
 }

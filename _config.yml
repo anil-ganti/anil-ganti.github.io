@@ -1,5 +1,7 @@
 # Site wide configuration
 
+google_analytics: UA-102156869-1
+
 title: Anil Ganti
 locale: en_US
 description: Engineer, environmentalist, book lover
